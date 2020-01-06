@@ -1,4 +1,4 @@
-# fix_uavtech_json
+# Fix UAV Tech JSON
 
 Fix UAV Tech's Betaflight Blackbox Explorer settings JSON file.
 
